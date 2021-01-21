@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/monster-attack/static/js/main.d53bdf07.chunk.js",
+    "main.js.map": "/monster-attack/static/js/main.d53bdf07.chunk.js.map",
+    "runtime-main.js": "/monster-attack/static/js/runtime-main.98f94ffa.js",
+    "runtime-main.js.map": "/monster-attack/static/js/runtime-main.98f94ffa.js.map",
+    "index.html": "/monster-attack/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f94ffa.js",
+    "static/js/main.d53bdf07.chunk.js"
+  ]
+}
